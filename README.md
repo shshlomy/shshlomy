@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shshlomy
+- 👋 Hi, I’m shlomy (yes i know it is with an y :-)
 - 👀 I am interested in Python and Java, especially on the back end side.
 - 🌱 I’m currently learning spring boot FW.
 - 📫 How to reach me shlomysheps@gmail.com
