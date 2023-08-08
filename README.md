@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shlomy (yes i know it is with an y :-)
 - 👀 I am interested in Python and Java, especially on the back end side.
-- 🌱 I’m currently learning spring boot FW.
+- 🌱 I love working with spring framework
 - 📫 How to reach me shlomysheps@gmail.com
 
 <!---
